@@ -175,3 +175,4 @@ after_success:
 - [持续集成 / 持续交付 / 持续部署](https://blog.csdn.net/qq_35368183/article/details/84558134)
 - [持续集成服务 Travis CI 教程](http://www.ruanyifeng.com/blog/2017/12/travis_ci_tutorial.html)
 - [测试覆盖率](https://segmentfault.com/p/1210000008663419/read)
+- [Travis 部署 gh-pages 配置](https://docs.travis-ci.com/user/deployment/pages/)
